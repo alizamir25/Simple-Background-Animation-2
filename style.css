@@ -3,7 +3,6 @@
     margin: 0;
     overflow: hidden;
 }
-
 body{
     height: 100vh;
     width: 100%;
@@ -22,7 +21,6 @@ body{
         background-position: 0 50%;
     }
 }
-
 .animate{
     position: absolute;
     border-radius: 5px;
